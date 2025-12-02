@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AthleticApp</string>
+    <string name="hamaikako">Hamaikakoa</string>
+    <string name="jolastu">Jolastu</string>
+    <string name="argazki">Argazkiak</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

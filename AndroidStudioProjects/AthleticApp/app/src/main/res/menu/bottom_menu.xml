@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item
+    android:id="@+id/HamaikakoFragment"
+    android:title="@string/hamaikako"
+    android:icon="@drawable/ic_hamaikako"
+    ></item>
+
+    <item
+        android:id="@+id/JolastuFragment"
+        android:title="@string/jolastu"
+        android:icon="@drawable/ic_jolastu"
+        ></item>
+
+    <item
+        android:id="@+id/ArgazkiFragment"
+        android:title="@string/argazki"
+        android:icon="@drawable/ic_argazki"
+        ></item>
+
+</menu>

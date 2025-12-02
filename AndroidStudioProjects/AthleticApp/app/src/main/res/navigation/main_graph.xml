@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/HamaikakoFragment">
+    <fragment
+        android:id="@+id/HamaikakoFragment"
+        android:name="com.example.athleticapp.ui.hamaikako.HamaikakoFragment"
+        android:label="fragment_hamaikako"
+        tools:layout="@layout/fragment_hamaikako" />
+    <fragment
+        android:id="@+id/ArgazkiFragment"
+        android:name="com.example.athleticapp.ui.argazki.argazkiFragment"
+        android:label="fragment_argazki"
+        tools:layout="@layout/fragment_argazki" />
+    <fragment
+        android:id="@+id/JolastuFragment"
+        android:name="com.example.athleticapp.ui.jolastu.JolastuFragment"
+        android:label="fragment_jolastu"
+        tools:layout="@layout/fragment_jolastu" />
+</navigation>
